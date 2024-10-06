@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> # [here](https://raufjatoi.github.io/me/      
+> # link : https://raufjatoi.github.io/me/      
 
 > [!NOTE]
-> Click the here lol.  
+> Click the link lol.  
